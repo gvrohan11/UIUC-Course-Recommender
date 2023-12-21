@@ -1,4 +1,4 @@
-# course-project-group-99
+# UIUC Course Recommender Web Application - CS 222 Software Design Lab Project
 
 ## a. Summary of Presentation Introduction
 
