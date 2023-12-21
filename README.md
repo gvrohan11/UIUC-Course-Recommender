@@ -21,11 +21,13 @@ First we used Professor Wade Fagen-Ulmschneider's GPA dataset from github, and t
 
 
 ## d. Group members and Their roles
+### Rohan:
+Worked on Rest API calls to redditAPI (for sentiment analysis) and RateMyProfessor to connect to front end
 ### Daniyal:
 Built course GPA dataset and created the sentiment analysis scripts
 ### Aditya:
    Built the front-end and the RateMyProf functions
 ### Deepit:
    Worked on getting the user input, building proposals, and identified which APIs are needed for NLP
-### Rohan
+
 
