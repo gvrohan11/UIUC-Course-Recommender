@@ -1,4 +1,4 @@
-# UIUC Course Recommender Web Application - CS 222 Software Design Lab Project
+# UIUC Course Recommender Web Application - CS 222 Software Design Lab Project (Fall 2022)
 
 ## a. Summary of Presentation Introduction
 
